@@ -36,11 +36,11 @@
             landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "1CD2315D-BC90-4C93-AC77-AFA81AA57B66 - 82dad9d48bc994f"
+                  uuid = "1CD2315D-BC90-4C93-AC77-AFA81AA57B66 - ae593e1b03e2a66e"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Swift.Int, Tarea_05.PokemonCell&gt; in closure #1 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Swift.Int, Tarea_05.PokemonCell&gt;&gt; in closure #1 () -&gt; SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Swift.Int, Tarea_05.PokemonCell&gt;&gt;&gt; in Tarea_05.PokedexView.body.getter : some"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 () -&gt; SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt;&gt; in Tarea_05.PokedexView.body.getter : some"
                   moduleName = "Tarea 05"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/daniel/Desktop/Curso%20iOS/Tarea%2005/Tarea%2005/PokedexView.swift"
@@ -48,14 +48,14 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "17"
                   endingLineNumber = "17"
-                  offsetFromSymbolStart = "163">
+                  offsetFromSymbolStart = "164">
                </Location>
                <Location
-                  uuid = "1CD2315D-BC90-4C93-AC77-AFA81AA57B66 - 2624364108f078f2"
+                  uuid = "1CD2315D-BC90-4C93-AC77-AFA81AA57B66 - 2e5c7b1a341348e8"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Tarea_05.Pokemon) -&gt; Tarea_05.PokemonCell in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Swift.Int, Tarea_05.PokemonCell&gt; in closure #1 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Swift.Int, Tarea_05.PokemonCell&gt;&gt; in closure #1 () -&gt; SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Swift.Int, Tarea_05.PokemonCell&gt;&gt;&gt; in Tarea_05.PokedexView.body.getter : some"
+                  symbolName = "closure #1 (Tarea_05.Pokemon) -&gt; &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 () -&gt; SwiftUI.ScrollView&lt;SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Tarea_05.Pokemon&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.id&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Hashable&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0&gt;&gt;&gt; in Tarea_05.PokedexView.body.getter : some"
                   moduleName = "Tarea 05"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/daniel/Desktop/Curso%20iOS/Tarea%2005/Tarea%2005/PokedexView.swift"
@@ -63,25 +63,9 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "18"
                   endingLineNumber = "18"
-                  offsetFromSymbolStart = "139">
+                  offsetFromSymbolStart = "280">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "D21FF0CE-8C8B-49BE-AF6C-B2FB3FC06729"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tarea 05/PokedexView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
-            landmarkName = "body"
-            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -100,7 +84,7 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "E0D701EC-BB81-4CE4-AF4F-722EC0706604 - f49f048f50a37a1e"
+                  uuid = "E0D701EC-BB81-4CE4-AF4F-722EC0706604 - f49f048f50a37917"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -110,12 +94,12 @@
                   urlString = "file:///Users/daniel/Desktop/Curso%20iOS/Tarea%2005/Tarea%2005/PokemonViewModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "55"
-                  endingLineNumber = "55"
-                  offsetFromSymbolStart = "1000">
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1071">
                </Location>
                <Location
-                  uuid = "E0D701EC-BB81-4CE4-AF4F-722EC0706604 - 1e67cc2db70e7bb3"
+                  uuid = "E0D701EC-BB81-4CE4-AF4F-722EC0706604 - 1e67cc2db70e7f7a"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -125,9 +109,9 @@
                   urlString = "file:///Users/daniel/Desktop/Curso%20iOS/Tarea%2005/Tarea%2005/PokemonViewModel.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "56"
-                  endingLineNumber = "56"
-                  offsetFromSymbolStart = "34">
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "163">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -167,33 +151,129 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "EAF694DC-8DC0-4A9F-A9E9-E09329FE8DDE"
-            shouldBeEnabled = "Yes"
+            uuid = "F304FA1A-1E30-42A0-86FF-A0969312A8EE"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Tarea 05/PokemonViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "57"
-            endingLineNumber = "57"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
             landmarkName = "fetchPokemon(link:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F304FA1A-1E30-42A0-86FF-A0969312A8EE - 3422219f1ccf242a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Tarea_05.PokemonViewModel.fetchPokemon() -&gt; ()"
+                  moduleName = "Tarea 05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Desktop/Curso%20iOS/Tarea%2005/Tarea%2005/PokemonViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "954">
+               </Location>
+               <Location
+                  uuid = "F304FA1A-1E30-42A0-86FF-A0969312A8EE - ba94ddcbc531dff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Tarea_05.PokemonViewModel.fetchPokemon() -&gt; ()"
+                  moduleName = "Tarea 05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Desktop/Curso%20iOS/Tarea%2005/Tarea%2005/PokemonViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "475C012D-6D69-43F6-902F-25E29BB4E336"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarea 05/PokemonViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadData()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "F304FA1A-1E30-42A0-86FF-A0969312A8EE"
-            shouldBeEnabled = "Yes"
+            uuid = "83A40A8D-21AD-4C1A-911D-1E906E2E1C27"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Tarea 05/PokemonViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "55"
-            endingLineNumber = "55"
-            landmarkName = "fetchPokemon(link:)"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "loadData()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72255B2A-BEA9-4BAA-A026-CC85DD1700D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarea 05/PokemonInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "72255B2A-BEA9-4BAA-A026-CC85DD1700D2 - 99eaa94a3d84d195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarea_05.PokemonInfo.body.getter : some"
+                  moduleName = "Tarea 05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Desktop/Curso%20iOS/Tarea%2005/Tarea%2005/PokemonInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1516">
+               </Location>
+               <Location
+                  uuid = "72255B2A-BEA9-4BAA-A026-CC85DD1700D2 - 502b775e6e463aa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in Tarea_05.PokemonInfo.body.getter : some"
+                  moduleName = "Tarea 05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniel/Desktop/Curso%20iOS/Tarea%2005/Tarea%2005/PokemonInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

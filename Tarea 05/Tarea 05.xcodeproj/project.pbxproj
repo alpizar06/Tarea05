@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,6 +16,8 @@
 		65B017C326F5BCE400076AE2 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B017C226F5BCE400076AE2 /* Pokemon.swift */; };
 		65B017C526F5C73500076AE2 /* PokemonViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B017C426F5C73500076AE2 /* PokemonViewModel.swift */; };
 		65B017C726F5DA4F00076AE2 /* FirstResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B017C626F5DA4F00076AE2 /* FirstResponse.swift */; };
+		65C3535D26F721A900B760AA /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 65C3535C26F721A900B760AA /* Kingfisher */; };
+		65C3535F26F723A400B760AA /* PokemonInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C3535E26F723A400B760AA /* PokemonInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,7 @@
 		65B017C226F5BCE400076AE2 /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		65B017C426F5C73500076AE2 /* PokemonViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonViewModel.swift; sourceTree = "<group>"; };
 		65B017C626F5DA4F00076AE2 /* FirstResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstResponse.swift; sourceTree = "<group>"; };
+		65C3535E26F723A400B760AA /* PokemonInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65C3535D26F721A900B760AA /* Kingfisher in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,6 +76,7 @@
 				65B017C226F5BCE400076AE2 /* Pokemon.swift */,
 				65B017C426F5C73500076AE2 /* PokemonViewModel.swift */,
 				65B017C626F5DA4F00076AE2 /* FirstResponse.swift */,
+				65C3535E26F723A400B760AA /* PokemonInfo.swift */,
 			);
 			path = "Tarea 05";
 			sourceTree = "<group>";
@@ -100,6 +105,9 @@
 			dependencies = (
 			);
 			name = "Tarea 05";
+			packageProductDependencies = (
+				65C3535C26F721A900B760AA /* Kingfisher */,
+			);
 			productName = "Tarea 05";
 			productReference = 65B017AC26F472D100076AE2 /* Tarea 05.app */;
 			productType = "com.apple.product-type.application";
@@ -127,6 +135,9 @@
 				Base,
 			);
 			mainGroup = 65B017A326F472D100076AE2;
+			packageReferences = (
+				65C3535B26F721A900B760AA /* XCRemoteSwiftPackageReference "Kingfisher" */,
+			);
 			productRefGroup = 65B017AD26F472D100076AE2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -154,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65B017C326F5BCE400076AE2 /* Pokemon.swift in Sources */,
+				65C3535F26F723A400B760AA /* PokemonInfo.swift in Sources */,
 				65B017B226F472D100076AE2 /* ContentView.swift in Sources */,
 				65B017C526F5C73500076AE2 /* PokemonViewModel.swift in Sources */,
 				65B017B026F472D100076AE2 /* Tarea_05App.swift in Sources */,
@@ -348,6 +360,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		65C3535B26F721A900B760AA /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 6.3.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		65C3535C26F721A900B760AA /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 65C3535B26F721A900B760AA /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 65B017A426F472D100076AE2 /* Project object */;
 }
